@@ -15,5 +15,6 @@ public class Main {
         String s = new Scanner(System.in).nextLine();
         People p = new People();
 
+        int e = 1;
     }
 }
