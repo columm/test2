@@ -17,5 +17,6 @@ public class Main {
 
         int e = 1;
 
+        String s2 = "master";
     }
 }
