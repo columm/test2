@@ -16,5 +16,7 @@ public class Main {
         People p = new People();
 
         int e = 1;
+
+        String s1 = "hot-fix";
     }
 }
