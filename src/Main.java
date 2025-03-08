@@ -17,6 +17,7 @@ public class Main {
 
         int e = 1;
 
+        String s1 = "hot-fix";
 
     }
 }
