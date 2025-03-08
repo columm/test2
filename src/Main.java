@@ -19,6 +19,7 @@ public class Main {
 
         String s2 = "master";
         String s1 = "hot-fix";
+        String s3 = "push";
 
     }
 }
